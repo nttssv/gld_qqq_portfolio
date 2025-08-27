@@ -97,3 +97,5 @@ This project is for educational and research purposes.
 
 ## Contributing
 Feel free to submit issues, feature requests, or pull requests to improve the analysis.
+# gld_qqq_portfolio
+# gld_qqq_portfolio
