@@ -4,7 +4,7 @@
 This project analyzes the performance of different portfolio strategies comparing QQQ (NASDAQ-100 ETF) and GLD (Gold ETF) using Modern Portfolio Theory (MPT) optimization. The analysis covers the period from October 2000 to present, providing insights into portfolio rebalancing, risk-adjusted returns, and drawdown analysis.
 
 ## Portfolio Performance Chart
-![Portfolio Performance Analysis](qqq_gold_mpt_optimized_highres.png)
+![Portfolio Performance Analysis](qqq_gold_mpt_optimized.png)
 
 *Chart showing the performance comparison of 100% QQQ, 100% GLD, 50/50 Balanced, and MPT Optimized portfolios from October 2000 to present.*
 
@@ -97,5 +97,6 @@ This project is for educational and research purposes.
 
 ## Contributing
 Feel free to submit issues, feature requests, or pull requests to improve the analysis.
+# gld_qqq_portfolio
 # gld_qqq_portfolio
 # gld_qqq_portfolio
